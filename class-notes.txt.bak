@@ -1,0 +1,29 @@
+class - 1
+---------
+Java is Object Oriented Programming Lang.
+
+write javascript,py and java program to print "Hello world"
+
+Write compile vs Interpreteror?
+
+
+Test.java
+
+class Test{
+	int eid=101;
+
+	public static void main(String[] args){
+		System.out.println(eid);
+	}
+}
+
+What is Identifer? Name in Java program
+class name, method name, variable name 
+
+Identifer Rules
+---------------
+1.Identifer should contains only: a to z, 0-9,$,_
+2.Idetifier should start with digits  o to 9
+3.Identifer should not contains any special char/symbol
+4.Should not use,keyword/RS has identifers.
+5.Identifers case senstive/
