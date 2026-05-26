@@ -27,3 +27,50 @@ Identifer Rules
 3.Identifer should not contains any special char/symbol
 4.Should not use,keyword/RS has identifers.
 5.Identifers case senstive
+
+=============================================
+Java is Strictly Typed and Static Typed Programming Lang
+-----------------------------------------------------------
+Java Data Types:
+----------------
+Primitive Data Types : Holding single values 
+Ref Data Types: Holding Mutliple valrues
+User Defined Data Types: class,interface
+
+Primitive Data Types     Size             Range
+--------------------	 
+byte		         1 byte		
+short                    2
+int                      4
+long                     8
+float                    4 
+double                   8 
+char                      1
+boolean                  n/A
+
+
+class Employee{}  - Employee Type Data
+
+Prepare technical document regarding 
+Java Data Types with examples
+convert into PDF and share group
+===============================================
+Java Variables
+----------------
+Instance Var: 
+	if variable value is varied from object to object.
+	separate copy will create for every object.
+	a)using object only
+
+Static Var:  static keyword
+	If variable value is not varied from object to object
+	only one copy will create at class level
+	and shared to all object.
+	a)using class Name
+	b)using Object Name
+	c)directly in static context
+Local var:
+	within method declaring and use- temp
+-================================================
+Create
+Read
