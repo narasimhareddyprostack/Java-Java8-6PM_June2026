@@ -72,5 +72,15 @@ Static Var:  static keyword
 Local var:
 	within method declaring and use- temp
 -================================================
-Create
-Read
+class Test{
+	psvm(String[] args){
+
+	}
+}
+
+local variable:
+----------------
+inside method
+
+Note:before using local variable intilization is requred.
+temp

@@ -53,7 +53,7 @@ class Employee{}  - Employee Type Data
 
 Prepare technical document regarding 
 Java Data Types with examples
-convert into PDF and share gorup
+convert into PDF and share group
 ===============================================
 Java Variables
 ----------------
@@ -72,5 +72,8 @@ Static Var:  static keyword
 Local var:
 	within method declaring and use- temp
 -================================================
-Create
-Read
+class Test{
+	psvm(String[] args){
+
+	}
+}
